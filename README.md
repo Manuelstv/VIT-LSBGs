@@ -1,4 +1,4 @@
-#Comparando a performance de diferentes redes neuraispara a classificação de galáxias de baixo brilho superficial
+# Comparando a performance de diferentes redes neuraispara a classificação de galáxias de baixo brilho superficial
 
 0.9122 -0.00075
 
