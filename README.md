@@ -7,4 +7,6 @@
 https://github.com/Manuelstv/VIT-LSBGs/blob/main/artifcats.png
 
 
-![alt text](https://github.com/Manuelstv/VIT-LSBGs/blob/main/LSBG_Examples-1.png?raw=true)
+![alt text](https://github.com/Manuelstv/VIT-LSBGs/blob/main/artifacts.png?raw=true)
+
+![alt text](https://github.com/Manuelstv/VIT-LSBGs/blob/main/lsbgs.png?raw=true)
