@@ -1,6 +1,8 @@
 # Comparando a performance de diferentes redes neurais para a classificação de galáxias de baixo brilho superficial
 
-0.9122 -0.00075
+###performance em função dos parâmetros
+learning rate/acurracy
+0.9122/ 0.00075
 
 ![alt text](https://github.com/Manuelstv/VIT-LSBGs/blob/main/img_artifacts.png?raw=true)
 
