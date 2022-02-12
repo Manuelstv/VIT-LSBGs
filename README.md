@@ -3,6 +3,7 @@
 ### performance em função dos parâmetros
 
 learning_rate = 0.001, num_epochs = 40, transformer_layers = 8 -> Accuracy score for DL: 0.8286
+
 learning_rate = 0.00083, num_epochs = 25, transformer_layers = 8 -> Accuracy score for DL: 0.9243
 
 
