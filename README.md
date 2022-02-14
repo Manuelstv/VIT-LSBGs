@@ -12,6 +12,9 @@ learning_rate = 0.00083, num_epochs = 20, transformer_layers = 8 -> Accuracy sco
 
 learning_rate = 0.00083, num_epochs = 30, transformer_layers = 8 -> Accuracy score for DL: 0.9043
 
+learning_rate = 0.00083, num_epochs = 30, transformer_layers = 8, layers.RandomFlip("horizontal_and_vertical")  -> Accuracy score for DL: 0.8512
+
+
 fiz outros testes, mas o dataset era um pouco diferente
 
 
