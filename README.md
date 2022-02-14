@@ -21,3 +21,5 @@ fiz outros testes, mas o dataset era um pouco diferente
 ![alt text](https://github.com/Manuelstv/VIT-LSBGs/blob/main/img_artifacts.png?raw=true)
 
 ![alt text](https://github.com/Manuelstv/VIT-LSBGs/blob/main/img_lsbgs.png?raw=true)
+
+https://pt.overleaf.com/read/mhdfvckmzbkp
