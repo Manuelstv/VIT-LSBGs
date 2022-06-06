@@ -4,15 +4,15 @@ In the last years, innovative works, fueled by robust sky surveys and efficient
 methods of detection, rekindled the interest of the scientific community for Low
 Surface Brightness Galaxies, a peculiar class of galaxies with low superficial stellar
 density that are very faint and diffuse in optical images.
+
+
 If the automatic detection of these galaxies in photometric surveys is already a
-complicated task, given their low surface brightness, searches for these objects suffer an aditional problem: the enormous amount of artifacts that are detected in the
-
-images and also have low surface brightness. With the growing amount of astrono-
-mical data, visual inspection to reject detected artifacts becomes impratical and it is
-
-necessary to develop efficient methods to separate Low Surface Brightness Galaxies
+complicated task, given their low surface brightness, searches for these objects suffer an aditional problem: the enormous amount of artifacts that are detected in the images and also have low surface brightness. With the growing amount of astrono-
+mical data, visual inspection to reject detected artifacts becomes impratical and it is necessary to develop efficient methods to separate Low Surface Brightness Galaxies
 from artifacts. Deep Learning methods, like Convolutional Neural Networks, are
 considered the state-of-the-art in several image classification problems.
+
+
 In this work, we aim at comparing the performance of the Visual Tranformers
 network, which recently caused a huge impact in the literature for challenging the
 paradigm of the state-of-the-art, with Convolutional Neural Networks to identify
